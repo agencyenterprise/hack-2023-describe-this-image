@@ -1,0 +1,5 @@
+{
+  "cSpell.words": ["langchain"],
+  "ruff.enable": false,
+  "mypy.enabled": false
+}

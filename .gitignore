@@ -1,0 +1,4 @@
+.env
+.streamlit
+.DS_Store
+.mypy_cache
